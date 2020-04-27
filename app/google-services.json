@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050847500144",
+    "firebase_url": "https://analog-digital-live-wallpaper.firebaseio.com",
+    "project_id": "analog-digital-live-wallpaper",
+    "storage_bucket": "analog-digital-live-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050847500144:android:569938440d9a813d82a1b5",
+        "android_client_info": {
+          "package_name": "com.muiezarif.livewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050847500144-cui8879k9do91blu33qh0vf584r1n0ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muiezarif.livewallpaper",
+            "certificate_hash": "9729cf5802259e7fc00a31d7991b318a7f29b6e0"
+          }
+        },
+        {
+          "client_id": "1050847500144-odn63576a336jujtbvq10qr5a1cmhp9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWBVMqYwI09DnY5Mq2ZBzwqAD7oDGSESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050847500144-odn63576a336jujtbvq10qr5a1cmhp9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

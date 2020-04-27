@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_num">
+        <item>@string/numericNum</item>
+        <item>@string/romanNum</item>
+    </string-array>
+    <string-array name="array_pos">
+        <item>@string/positionAnalogClockTop</item>
+        <item>@string/positionAnalogClockCenter</item>
+        <item>@string/positionAnalogClockBottom</item>
+    </string-array>
+    <string-array name="array_shape">
+        <item>@string/shapeAnalogClockCircle</item>
+        <item>@string/shapeAnalogClockRectangle</item>
+    </string-array>
+</resources>
